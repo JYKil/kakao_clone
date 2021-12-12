@@ -1,3 +1,3 @@
-# Kakao Clone (PJT No: 20211206_01)
+# Kakao Clone
 
-This is my HTML-CSS project.
+This is a project to pratice HTML-CSS.
